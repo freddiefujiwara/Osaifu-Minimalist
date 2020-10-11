@@ -54,3 +54,4 @@
 
 [MIT License](https://github.com/freddiefujiwara/jpy_minimize_your_change/blob/main/LICENSE)
 
+{% include gtag.html %}
