@@ -26,7 +26,7 @@
 
 # 使い方
 
-![QRCode](https://freddiefujiwara.com/Osaifu-Minimalist/images/demo.gif)
+![DEMO](https://freddiefujiwara.com/Osaifu-Minimalist/images/demo.gif)
 
 
 # インストール方法
