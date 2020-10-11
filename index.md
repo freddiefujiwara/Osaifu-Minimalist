@@ -46,7 +46,11 @@
 
 
 
-# 問い合わせ、ご意見、ご要望、問題など
+# お問い合わせ、問題など
 
-#ライセンス
+お問い合わせ、問題、ご要望などは　[こちら](https://github.com/freddiefujiwara/jpy_minimize_your_change/issues) まで!
+
+# ライセンス
+
+[MIT License](https://github.com/freddiefujiwara/jpy_minimize_your_change/blob/main/LICENSE)
 
