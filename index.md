@@ -13,6 +13,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## iPhoneをお使いの方
 
+![QRCode](https://freddiefujiwara.com/Osaifu-Minimalist/images/iphone.gif)
+
 ## スマホ(Android)をお使いの方
 
 ![QRCode](https://freddiefujiwara.com/Osaifu-Minimalist/images/android.gif)
