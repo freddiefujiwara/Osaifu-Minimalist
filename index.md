@@ -38,11 +38,11 @@
 
 ## iPhoneをお使いの方
 
-![QRCode](https://freddiefujiwara.com/Osaifu-Minimalist/images/iphone.gif)
+![iPhoneをお使いの方](https://freddiefujiwara.com/Osaifu-Minimalist/images/iphone.gif)
 
 ## スマホ(Android)をお使いの方
 
-![QRCode](https://freddiefujiwara.com/Osaifu-Minimalist/images/android.gif)
+![スマホ(Android)をお使いの方](https://freddiefujiwara.com/Osaifu-Minimalist/images/android.gif)
 
 
 
