@@ -30,7 +30,7 @@
 
 
 # インストール方法
-下記のQRコードを携帯電話で読み込んでください
+下記のQRコードを携帯電話で読み込むか　もしくは　[こちらのリンク](https://freddiefujiwara.com/jpy_minimize_your_change/) にアクセスしてください
 
 ![QRCode](https://freddiefujiwara.com/Osaifu-Minimalist/images/IMG_8695.jpg)
 
