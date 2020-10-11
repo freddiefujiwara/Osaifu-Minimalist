@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# 目指せおさいふミニマリスト！とは
 
 You can use the [editor on GitHub](https://github.com/freddiefujiwara/jpy_minimize_your_change_lp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# インストール方法
+下記のQRコードを携帯で読み込んでください
+![QRCode](https://freddiefujiwara.com/Osaifu-Minimalist/images/IMG_8695.jpg)
+具体的には下記の動画を御覧ください
+## iPhoneをお使いの方
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## スマホ(Android)をお使いの方
 
-```markdown
-Syntax highlighted code block
+# 問い合わせ、ご意見、ご要望、問題など
 
-# Header 1
-## Header 2
-### Header 3
+#ライセンス
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freddiefujiwara/jpy_minimize_your_change_lp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
